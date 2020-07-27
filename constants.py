@@ -1,0 +1,4 @@
+CONSUMER_KEY = "dsadsa"
+CONSUMER_SCRET = ""
+ACCESS_KEY = ""
+ACCESS_SECRET = ""
