@@ -1,4 +1,4 @@
-CONSUMER_KEY = "asdasd"
+CONSUMER_KEY = "cxvcbv"
 CONSUMER_SCRET = ""
 ACCESS_KEY = ""
 ACCESS_SECRET = ""
